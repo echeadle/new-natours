@@ -160,12 +160,13 @@ body {
 
 
 .btn:hover {
-    transform: translateY(-.3rem);
-    box-shadow: 0 1rem 2rem rbga(0,0,0,.2);git 
+    transform: translateY(-3px);
+    box-shadow: 0 1rem 2rem rbga(0,0,0,.2);
 
+}
 
 .btn:active {
-    transform: translateY(-.1rem);
+    transform: translateY(-1px);
     box-shadow: 0 .5rem 1rem rbga(0,0,0,.2);
     
 }
