@@ -14,7 +14,7 @@ Dark green: #28b485
 }
 
 html {
-    font-size: 10px;
+    font-size: .625;
 }
 
 body {
@@ -157,8 +157,7 @@ body {
 
 .btn:hover {
     transform: translateY(-.3rem);
-    box-shadow: 0 1rem 2rem rbga(0,0,0,.2);
-}
+    box-shadow: 0 1rem 2rem rbga(0,0,0,.2);git 
 
 
 .btn:active {
